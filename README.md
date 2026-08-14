@@ -1,6 +1,6 @@
-# Verkaufsdatenanalyse mit SQL
+# Verkaufsdatenanalyse mit SQL und Power BI
 
-Dieses Projekt enthält eine einfache Analyse von Verkaufsdaten mit SQL.
+Dieses Projekt enthält eine einfache Analyse von Verkaufsdaten mit SQL sowie eine Visualisierung der Ergebnisse mit Power BI.
 
 ## Ziel
 
@@ -18,6 +18,7 @@ Dabei werden folgende Aspekte analysiert:
 - PostgreSQL
 - DBeaver
 - SQL
+- Power BI
 
 ## Ergebnisse
 
